@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #e0e0e0;
+  background-color: #a94343;
 }
 
 .form-container {
@@ -71,4 +71,5 @@ body {
 .form-container a:hover {
   background-color:
 }
+
 
